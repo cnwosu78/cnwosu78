@@ -47,7 +47,7 @@ I'm focused on **digital design and verification**, with a software background i
 
 ## 🌱 Beyond code
 
-- Academic Excellence Chair, **NSBE** UIUC Chapter
+-  Previous Academic Excellence Chair, Current Corporate Relations Chair **NSBE** UIUC Chapter
 - Summer Tech Intern at **Discovery Partners Institute**, applying clustering and regression to environmental data
 
 ## 📫 Connect
